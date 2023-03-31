@@ -1,0 +1,6 @@
+google.csv
+.history
+__pycache__
+venv
+.DS_Store
+.idea
