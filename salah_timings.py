@@ -3,7 +3,7 @@ import requests
 import csv
 
 SALAH_NAME_INDEX_MAPPING = {"fajr": 1, "dhuhr": 3, "asr": 4, "maghrib": 5, "isha": 6}
-SHOW_SALAH_TIMES_FOR = ["dhuhr", "asr", "maghrib", "isha"]  # "fajr"
+SHOW_SALAH_TIMES_FOR = ["fajr", "dhuhr", "asr", "maghrib", "isha"]
 
 
 class SalahTiming:
